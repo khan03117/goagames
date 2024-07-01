@@ -8,7 +8,7 @@ const Home = () => {
 
             <section className="w-full">
                 <div className="container mx-auto">
-                    <div className="lg:w-1/2 w-full lg:p-0 px-5 mx-auto h-lvh flex items-center">
+                    <div className="lg:w-1/2 w-full lg:p-0 px-5 mx-auto h-lvh lg:overflow-auto overflow-hidden flex items-center">
                         <div className="w-full lg:mt-0 -mt-20">
                             <figure className="mb-5">
                                 <img src={logo} alt="" className="size-28 object-fill rounded-full  mx-auto" />
