@@ -27,7 +27,7 @@ const Home = () => {
                                                     <div className="lg:w-1/2 w-3/4">
                                                         <div className="w-full flex items-center gap-3">
                                                             <img src={logo} alt="" className="size-16 object-fill rounded-full " />
-                                                            <h4 className="text-primary lg:text-xl font-[400] text-md text-nowrap">Gaogames {itm}</h4>
+                                                            <h4 className="text-primary lg:text-xl font-[400] text-md text-nowrap"> {itm} Gaogames</h4>
                                                         </div>
                                                     </div>
                                                     <div className="lg:w-1/2 w-1/4">

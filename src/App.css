@@ -13,3 +13,9 @@ body {
   height: 100%;
   font-family: "Roboto", sans-serif;
 }
+
+@media (max-width:768px) {
+  body {
+    max-height: calc(100vh-100px);
+  }
+}
