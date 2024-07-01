@@ -10,7 +10,6 @@
 body {
   background: linear-gradient(180deg, #1c38f8, rgba(28, 56, 248, 0.5));
   background-size: cover;
-  min-height: 100vh;
   height: 100%;
   font-family: "Roboto", sans-serif;
 }
