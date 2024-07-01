@@ -17,7 +17,7 @@ body {
 
 @media (max-width:768px) {
   body {
-    max-height: calc(100vh - 100px);
+    max-height: calc(100vh - 10px);
     overflow: hidden;
   }
 }
